@@ -5,8 +5,8 @@
   para a criação de um web site insipirado em uma ODS14.</p>
 
 ## Como usar
-Site informativo que conta com a explicação da ODS juntamente com informações para ajudar na causa.
-  Bom uso!!
+Site informativo que conta com a explicação da ODS 14, escolhida no projeto, juntamente com informações para ajudar na causa.
+Bom uso!!
 
 ## Tecnologias
 <div>
